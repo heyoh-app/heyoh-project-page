@@ -26,6 +26,16 @@ PyTorch Annual Hackathon 2021
 ### Compatibility
 Heyoh camera works with any other virtual camera, such as OBS, mmhmm or Snap. Open Heyoh Camera in tray and select the video source.
 
+### Uninstall
+
+- Remove application from Applications folder
+```
+rm -r /Applications/Heyoh.app
+```
+- Remove Heyoh Plugin from /Library/CoreMediaIO/Plug-Ins/DAL/
+```
+rm -r /Library/CoreMediaIO/Plug-Ins/DAL/Heyoh\ Camera.plugin
+```
 
 ## Source code
 
