@@ -30,5 +30,5 @@ Heyoh camera works with any other virtual camera, such as OBS, mmhmm or Snap. Op
 ## Source code
 
 - [heyoh-camera](https://github.com/heyoh-app/heyoh-camera) - code for the macOS app and DAL plugin (virtual camera).
-- [gestures-detector](https://github.com/heyoh-app/gestures-detector) - training and inference code for heyoh-camera app
+- [gestures-detector](https://github.com/heyoh-app/gestures-detector) - training and inference code for heyoh-camera app.
 
