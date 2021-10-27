@@ -1,5 +1,5 @@
 title: Heyoh Camera
-logo: /docs/hand_up_yellow.png
+logo: /docs/images/hand_up_yellow.png
 description: Heyoh is an open source virtual camera based on PyTorch.
 show_downloads: true
 theme: jekyll-theme-minimal
