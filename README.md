@@ -2,7 +2,7 @@
 
 Heyoh is an open source virtual camera based on PyTorch. It is the code for the macOS app and DAL plugin (virtual camera).
 
-## [DOWNLOAD INSTALLER](https://l.linklyhq.com/l/dcFk)
+## [DOWNLOAD FOR MAC](https://l.linklyhq.com/l/dcFk)
 
 Contributors: Marko Kostiv, Danylo Bondar, Oleh Sehelin, Ksenia Demska
 
