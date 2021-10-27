@@ -1,8 +1,31 @@
-## Welcome to GitHub Pages
+## Heyoh Camera
 
-You can use the [editor on GitHub](https://github.com/heyoh-app/heyoh.github.io/edit/develop/README.md) to maintain and preview the content for your website in Markdown files.
+Heyoh is an open source virtual camera based on PyTorch. It is the code for the macOS app and DAL plugin (virtual camera).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [DOWNLOAD INSTALLER](https://l.linklyhq.com/l/dcFk)
+
+Contributors: Marko Kostiv, Danylo Bondar, Oleh Sehelin, Ksenia Demska
+
+PyTorch Annual Hackathon 2021
+## How to use
+
+### Zoom
+- Restart Zoom application after installing Heyoh Camera
+- Go to Preferences -> Video -> Select Heyoh Camera
+<p align="center">
+<img src="docs/images/zoom-heyoh-camera.png" alt="drawing" width="300"/>
+</p>
+
+### Meets
+- Restart your browser after installing Heyoh Camera
+- Go to Settings -> Video -> Select Heyoh Camera
+<p align="center">
+<img src="docs/images/meets-heyoh-camera.png" alt="drawing" width="400"/>
+</p>
+
+### Compatibility
+Heyoh camera works with any other virtual camera, such as OBS, mmhmm or Snap. Open Heyoh Camera in tray and select the video source.
+
 
 ### Markdown
 
