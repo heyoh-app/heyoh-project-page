@@ -9,15 +9,29 @@ Contributors: Marko Kostiv, Danylo Bondar, Oleh Sehelin, Ksenia Demska
 PyTorch Annual Hackathon 2021
 ## How to use
 
+### Installation
+- Install Heyoh Camera
+<p align="center">
+<img src="docs/images/installation.png" alt="drawing" width="450"/>
+</p>
+
+- Heyoh Camera will run in a tray
+<p align="center">
+<img src="docs/images/tray-icon.png" alt="drawing" width="450"/>
+</p>
+
+- Restart Zoom or Google Chrome
+<p align="center">
+<img src="docs/images/zoom-restart.png" alt="drawing" width="150"/>
+</p>
+
 ### Zoom
-- Restart Zoom application after installing Heyoh Camera
 - Go to Preferences -> Video -> Select Heyoh Camera
 <p align="center">
 <img src="docs/images/zoom-heyoh-camera.png" alt="drawing" width="300"/>
 </p>
 
 ### Meets
-- Restart your browser after installing Heyoh Camera
 - Go to Settings -> Video -> Select Heyoh Camera
 <p align="center">
 <img src="docs/images/meets-heyoh-camera.png" alt="drawing" width="400"/>
