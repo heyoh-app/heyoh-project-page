@@ -1,18 +1,22 @@
 ## Heyoh Camera
 
 Heyoh is an open source virtual camera based on PyTorch. Bring real-life gestures to your video calls with heyoh virtual camera.
+<p align="center">
+<img src="docs/images/demo.gif" alt="drawing" width="450"/>
+</p>
 
 ## [DOWNLOAD FOR MAC](https://l.linklyhq.com/l/dcFk)
 
 Contributors: Marko Kostiv, Danylo Bondar, Oleh Sehelin, Ksenia Demska
 
 PyTorch Annual Hackathon 2021
+
 ## How to use
 
 ### Installation
 - Install Heyoh Camera
 <p align="center">
-<img src="docs/images/installation.png" alt="drawing" width="450"/>
+<img src="docs/images/installation.png" alt="drawing" width="550"/>
 </p>
 
 - Heyoh Camera will run in a tray
