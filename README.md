@@ -1,4 +1,4 @@
-## Heyoh Camera
+## 🥉 Place at PyTorch Annual Hackathon 2021 - Heyoh Camera
 
 Heyoh is an open source virtual camera based on PyTorch. Bring real-life gestures to your video calls with heyoh virtual camera.
 <p align="center">
